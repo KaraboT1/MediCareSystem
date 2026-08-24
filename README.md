@@ -46,8 +46,7 @@ Run the file
 Follow the menu options displayed
 
 ##Main Menu Options
-
-    #MEDICARE HOSPITAL ADMISSION SYSTEM
+##MEDICARE HOSPITAL ADMISSION SYSTEM
 
 PATIENT MANAGEMENT:
   1. Register New Patient
